@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <tittle>Workshop</tittle>
+    <tittle> Workshop </tittle> 
   </head>
   <body>
     <h1>HELLO</h1>
