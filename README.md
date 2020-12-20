@@ -5,8 +5,6 @@
   <head>
     <meta charset="utf-8">
     <tittle>Workshop</tittle>
-    <style>
-    </style>
   </head>
   <body>
     <h1>HELLO</h1>
