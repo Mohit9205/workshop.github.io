@@ -1,13 +1,13 @@
 # workshop.github.io
 
-<!DOCTYOE>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <tittle> Workshop </tittle> 
     <style>
-    .class { color: red }
-    </style>
+   
+   </style>
   </head>
   <body>
     <h1>HELLO</h1>
