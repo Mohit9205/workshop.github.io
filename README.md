@@ -1,9 +1,9 @@
 # workshop.github.io
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
-    <tittle> Workshop </tittle> 
+    <title> Workshop </title> 
     <style>
     .introduction { 
       color : blue ;}
