@@ -1,6 +1,5 @@
 # workshop.github.io
-
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
