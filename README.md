@@ -6,8 +6,9 @@
     <meta charset="utf-8">
     <tittle> Workshop </tittle> 
     <style>
-   
-   </style>
+    .introduction { 
+      color : blue ;}
+    </style>
   </head>
   <body>
     <h1>HELLO</h1>
